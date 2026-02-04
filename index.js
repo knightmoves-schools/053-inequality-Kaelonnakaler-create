@@ -4,8 +4,9 @@ function guessNumber(guess) {
   }
   }
 function strictGuessNumber(guess) {
-  if (price == 25) {
+  if (guess == 25) {
     return "not it";
   }
 }
+
 
